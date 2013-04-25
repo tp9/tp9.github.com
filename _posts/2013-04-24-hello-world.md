@@ -3,7 +3,7 @@ layout: post
 title: "Hello world"
 description: ""
 category: 
-tags: []
+tags: [pygame]
 ---
 {% include JB/setup %}
 
